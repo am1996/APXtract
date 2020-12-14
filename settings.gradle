@@ -1,0 +1,2 @@
+rootProject.name = 'APXtract'
+include ':app'
